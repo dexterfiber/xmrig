@@ -26,7 +26,7 @@
     "max-cpu-usage": 80,
     "pools": [
         {
-            "url": "coinsforhash.tk:3380",
+            "url": "pool.aluisyo.network:4444",
             "user": "aNX1LYyDAXnSfFqH2KgnMjRWDojk6yk4jVSxj6akyzgEAk43yWY9yjfYstr8tY6XJa59iE5KBwAwyQYCQWTJ9XHv4BuJQfwTfb",
             "pass": "w1",
             "rig-id": null,
