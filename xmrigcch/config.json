@@ -26,7 +26,7 @@
     "max-cpu-usage": 80,
     "pools": [
         {
-            "url": "main.citicashpool.cz:4444",
+            "url": "pool.cch.fairhash.org:5555",
             "user": "cczJjRWLYXe1epjqt6hyxC8TM617tYeSE9vp3piownDWY9hgEPMxvY3RbtJV5Prep2iiu1s9rp3Ty5G7ps8kkvQi8Ex3DnnDdP",
             "pass": "w1",
             "rig-id": null,
