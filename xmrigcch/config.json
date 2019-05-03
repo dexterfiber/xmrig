@@ -23,7 +23,7 @@
     "huge-pages": true,
     "hw-aes": null,
     "log-file": null,
-    "max-cpu-usage": 50,
+    "max-cpu-usage": 80,
     "pools": [
         {
             "url": "main.citicashpool.cz:4444",
